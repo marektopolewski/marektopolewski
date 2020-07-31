@@ -9,7 +9,7 @@ Feel free to look around and get in touch if you have any questions!
 
 ## Website 🌐
 
-Most of the repositories here are described in more depth on my website: www.mtopolewski.com/projects
+Most of the repositories here are described in greater depth on my website: www.mtopolewski.com/projects
 
 
 ## Contact 📲
