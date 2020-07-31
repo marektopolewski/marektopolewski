@@ -7,7 +7,7 @@ Welcome to my GitHub.
 Feel free to look around and get in touch if you have any questions!
 
 
-## Website
+## Website 🌐
 
 Most of the repositories here are described in more depth on my website: www.mtopolewski.com/projects
 
@@ -16,4 +16,4 @@ Most of the repositories here are described in more depth on my website: www.mto
 
 The best way to contact me would be via my website: www.mtopolewski.com/contact/send
 
-Alternatively, you can email me directly at: marek.topolewski@gmail.com
+Alternatively, you can message me on LinkedIn: www.linkedin.com/in/marek-topolewski
